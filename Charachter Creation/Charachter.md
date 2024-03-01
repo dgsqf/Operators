@@ -1,0 +1,7 @@
+Statistics list :
+
+- FIRING 
+- STRENGTH
+- CHARISMA
+- INTELLIGENCE
+

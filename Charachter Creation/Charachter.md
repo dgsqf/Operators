@@ -1,7 +1,25 @@
-Statistics list :
 
-- FIRING 
+Field list : 
+
+RP fields
+- Name
+- Codename
+
+
+Gameplay fields
+- Class
+- Background
+- FIRING
 - STRENGTH
 - CHARISMA
 - INTELLIGENCE
-
+- Health
+- Primary
+- Secondary
+- Backpack
+- Helmet
+- Vest
+- Arm protection
+- Leg protection
+- Weapon Affinity
+- Skills

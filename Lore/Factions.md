@@ -18,4 +18,5 @@ Their leader's identity is unknown, but his codename "Punch" is known.
 ## Al-Qabda
 
 
-Al-Qabda is a islamic terrorist organization 
+Al-Qabda is a islamic terrorist organization, they are known for highly violent and barbaric actions. There techniques range from suicide bombings to shootings.
+They are organized into regional cells all over the world with the main one placed in Afghanistan.

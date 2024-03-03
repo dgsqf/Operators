@@ -2,24 +2,24 @@
 Field list : 
 
 RP fields
-- Name
-- Codename
+- Name 
+- Codename 
 
 
 Gameplay fields
-- Class
-- Background
-- FIRING
-- STRENGTH
-- CHARISMA
-- INTELLIGENCE
-- Health
-- Primary
+- Class 
+- Background 
+- FIRING 
+- STRENGTH 
+- CHARISMA 
+- INTELLIGENCE 
+- Health 
+- Primary 
 - Secondary
 - Backpack
-- Helmet
-- Vest
-- Arm protection
+- Helmet 
+- Vest 
+- Arm protection 
 - Leg protection
-- Weapon Affinity
+
 - Skills
